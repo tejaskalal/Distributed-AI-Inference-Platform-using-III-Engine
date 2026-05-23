@@ -234,7 +234,7 @@ source ~/.bashrc
 ## Start III Engine
 
 ```bash
-iii up
+iii 
 ```
 
 ---
